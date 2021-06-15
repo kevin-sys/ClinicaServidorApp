@@ -13,3 +13,4 @@ if($connect){
 	echo "Algo ha fallado, revise la conexión";
 	exit();
 }
+?>
